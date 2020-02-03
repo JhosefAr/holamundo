@@ -6,8 +6,7 @@ import { Component } from '@angular/core';
 export class BodyComponents {
     mostrar = true;
     frase: any = {
-        mensaje: 'La vida es cruel, porque no ha decerlo la muerte tambien',
-        autor: 'Cap. Jones'
+        mensaje: 'Longitud: 356 mm, Alimentación: Tambor 6 cartuchos, Cañón: 210 mm, Peso (arma): 1,5 Kg., Calibre: .44 Magnum',
+        autor: 'SMITH & WESSON Modelo 29 .44Magnum'
     }
-    personajes: string[] = ['Cap. Barbosa', 'Cap. Sparrow', 'Cap. Jones'];
 }
